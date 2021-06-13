@@ -112,3 +112,148 @@
   <body>
     <p>This is an example paragraph. Anything in the <strong>body</strong> tag will appear on the page, just like this <strong>p</strong> tag and its contents.</p>
   </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hx></hx> 
+*//Creates a heading. Usually used to describe a portion of text. x-values range from 1-6, 1 being the largest, with 6 being the smallest
+
+<b></b> 
+*//Creates bold text
+
+<i></i> 
+*//Creates italic text
+
+<tt></tt> 
+*//Creates teletype, or typewriter-style text, like this text.
+
+<cite></cite> 
+*//Creates a citation, usually italic
+
+<em></em> 
+*//Emphasises a word (with italic or bold)
+
+<strong></strong> 
+*//Emphasizes a word (with italic or bold). Same-ish as <em>
+
+<font size="x"></font> 
+*//Sets size of font, x goes from 1 to 7
+
+<font color="x"></font> 
+*//Sets font colour, using name or hex value
+
+<p></p> 
+*//Creates a new paragraph
+
+<p align="left"> 
+*//Aligns a paragraph to the left (default), right, or center.
+
+<br> 
+*//Inserts a line break
+
+<blockquote></blockquote> 
+*//Indents text from both sides
+
+<dl></dl> 
+*//Creates a definition list
+
+      For use with <dl> :
+    
+      • <dt> 
+        *//Precedes each definition term
+
+      • <dd> 
+        *//Precedes each definition
+
+<ol></ol> 
+*//Creates a numbered list
+
+<ul></ul> 
+*//Creates a bulleted list
+
+<li></li> 
+*//Precedes each list item, and adds a number or symbol depending upon the type of list selected. By default it'll produce a bullet.
+
+<div align="left"> 
+*// A tag used to format large blocks of HTML.
+
+<img src="name"> 
+*// Adds an image. name takes the place of the source of an image; the URL at which the image is located.
+
+       Attributes of <img>:
+         • align="left"
+           *//Aligns an image: left, right, center; bottom, top, middle
+
+         • border="x" 
+           *// Sets size of border around an image in units of pixels.
+
+<hr/> 
+*//Inserts a horizontal rule. A line that demarcates sections of content. This tag does not need to be closed.
+
+       Attributes of </hr>:
+        • size="x"
+          *// Sets size (height) of rule in pixels.
+
+        • width="x%" 
+          *//Sets width of rule, in percentage or absolute value
+
+        • noshade 
+          *//Creates a rule without a shadow
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
+	  
