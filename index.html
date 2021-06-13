@@ -4,7 +4,7 @@
     <title>Haopeng Wang (王浩鹏)'s Homepage </title>
   </head>
   <body>
-    <p> <strong> Haopeng Wang (王浩鹏）<strong>
+    <p> <strong> Haopeng Wang (王浩鹏）<strong> <p>
     
     
     
@@ -14,7 +14,7 @@
       
       <head>
 		<meta>
-		<title>{% block title %}nugarum cesaris{% endblock %}</title>
+		<title>{% block title %}Haopeng Wang (王浩鹏）{% endblock %}</title>
 		<link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/main.css">
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 	</head>
@@ -30,8 +30,11 @@
 					</ul>
 				</nav>
 			</header>
-			<section id="content">
-				{% block content %}
+			<section id="address">
+				Department of mathematics, KU Leuven
+				Celestijnenlaan 200B
+                                B-3001 Leuven, Belgium
+				
 					{% for p in ultimos_posts%}
 					<h2>{{p.title}}</h2>
 					<h3>Posted in {{p.data}} #<a href="/post/{{p.id}}/#disqus_thread"> 0 Comments</a></h3>
